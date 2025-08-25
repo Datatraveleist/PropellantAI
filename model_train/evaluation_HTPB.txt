@@ -1,0 +1,9 @@
+Training Set Evaluation Results:
+Isp - Training MSE: 1.1436, R²: 0.9957, MAE: 0.8297
+T_c - Training MSE: 82.7151, R²: 0.9997, MAE: 5.7964
+Cstar - Training MSE: 25.3752, R²: 0.9977, MAE: 3.3362
+
+Test Set Evaluation Results:
+Isp - Test MSE: 1.1422, R²: 0.9957, MAE: 0.8305
+T_c - Test MSE: 83.9848, R²: 0.9997, MAE: 5.7928
+Cstar - Test MSE: 25.4621, R²: 0.9977, MAE: 3.3433

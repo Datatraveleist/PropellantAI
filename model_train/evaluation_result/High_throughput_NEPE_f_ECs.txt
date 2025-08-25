@@ -1,0 +1,4 @@
+Test Evaluation Results_High_throughput_NEPE_f_ECs:
+Isp - MSE: 2.1356, R²: 0.9742, MAE: 1.1898
+T_c - MSE: 314.7896, R²: 0.9980, MAE: 13.8309
+Cstar - MSE: 57.1848, R²: 0.9835, MAE: 5.4837

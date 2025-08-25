@@ -1,0 +1,4 @@
+Test Evaluation Results_High_throughput_GAP_f_ECs:
+Isp - MSE: 1.9343, R²: 0.9875, MAE: 1.0700
+T_c - MSE: 232.4575, R²: 0.9990, MAE: 9.8260
+Cstar - MSE: 43.7251, R²: 0.9940, MAE: 4.4659

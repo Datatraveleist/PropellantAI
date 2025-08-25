@@ -1,0 +1,15 @@
+Mean Squared Error: 14836.4776
+Mean Absolute Error: 90.5372
+R² Score: 0.9341
+
+Sample of True vs Predicted Values:
+True: 629.52          Predicted: 582.504919052124    
+True: 343.4           Predicted: 249.0985870361328   
+True: -71.0           Predicted: -25.188772201538086 
+True: 274.1           Predicted: 270.3167362213135   
+True: 521.52          Predicted: 631.1125869750977   
+True: 174.0           Predicted: 165.86454391479492  
+True: 168.0           Predicted: 286.74626541137695  
+True: 310.8           Predicted: 457.73084259033203  
+True: 832.6           Predicted: 983.6227359771729   
+True: 596.7           Predicted: 782.7541618347168   
