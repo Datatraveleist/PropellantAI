@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# PropellantAI-
-Intelligent Energetic Molecules Design for Solid Propellants via Interpretable Machine Learning and Latent Space Optimization
-=======
-<<<<<<< HEAD
-# PropellantAI
-=======
 # Intelligent Energetic Molecules Design for Solid Propellants via Interpretable Machine Learning and Latent Space Optimization
 
 We present an AI workflow for the intelligent design of energetic molecules in solid propellants. The approach integrates property prediction, interpretability analysis, and generative modeling, supported by a diverse dataset of over 16,000 molecules. Key chemical factors such as oxygen balance and nitrogen content are identified as performance drivers, guiding the generation of novel candidate molecules. This work demonstrates a practical and interpretable pipeline to accelerate propellant formulation and energetic material discovery.
@@ -30,5 +23,3 @@ All datasets are available at [https://doi.org/10.6084/m9.figshare.29976979.v1](
 - **Junction_tree**: Implements the JT-VAE (Junction Tree Variational Autoencoder) training and Bayesian optimization workflow.  
     - To train the JT-VAE model, first run `preprocess.py` to prepare the data, then execute `VAE-train.py`. This model is based on [jtvae](https://github.com/kamikaze0923/jtvae) with custom modifications.
     - For Bayesian optimization, navigate to the `bo` subfolder. First, run `gen_latent.py` to generate latent representations, followed by `run_gpytorch.py` to perform Gaussian process regression and optimization.
->>>>>>> 52922e1 (first commit)
->>>>>>> 27ae092 (first)
