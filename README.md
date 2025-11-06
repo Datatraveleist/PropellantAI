@@ -1,4 +1,4 @@
-# Intelligent Energetic Molecules Design for Solid Propellants via Interpretable Machine Learning and Latent Space Optimization
+# Intelligent High-Energy Molecules Design for Solid Propellants via Interpretable Machine Learning and Latent Space Optimization
 
 We present an AI workflow for the intelligent design of energetic molecules in solid propellants. The approach integrates property prediction, interpretability analysis, and generative modeling, supported by a diverse dataset of over 16,000 molecules. Key chemical factors such as oxygen balance and nitrogen content are identified as performance drivers, guiding the generation of novel candidate molecules. This work demonstrates a practical and interpretable pipeline to accelerate propellant formulation and energetic material discovery.
 ## Figure
@@ -13,6 +13,7 @@ The training and test sets are derived from several sources:
 
 - **HTPB formulation data**: Generated in `input_modify_f_ECs.pkl` (~5 million entries), with 80% used for training and 20% for testing.
 - **GAP and NEPE formulation data**: Provided in `High_throughput_GAP_f_ECs.csv` (~450,000 entries) and `High_throughput_NEPE_f_ECs.csv` (~550,000 entries).
+
 All datasets are available at [https://doi.org/10.6084/m9.figshare.29976979.v1](https://figshare.com/account/items/29976979/edit).
 
 ## Candidate molecule data
