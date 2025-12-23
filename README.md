@@ -19,7 +19,7 @@ All datasets are available at [https://figshare.com/articles/dataset/PropellantA
 ## Candidate molecule data
 - Provided in `Candidate molecule.csv` (~232).
 
-All datasets are available at [https://doi.org/10.6084/m9.figshare.29976979.v1](https://figshare.com/account/items/29976979/edit).
+All datasets are available at [https://figshare.com/articles/dataset/PropellantAI_data/29976979).
 
 ## Folder Structure and Descriptions
 
